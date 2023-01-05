@@ -1,0 +1,280 @@
+<QuizList>
+    <Quiz nume="Cunostinte de baza despre C" dificultate="usor">
+<!-- quiz usor -->
+        <Intrebare numar="1)">
+            <enunt> Ce este C-ul? </enunt>
+
+            <raspuns tip="gresit"> a)O vitamina</raspuns>
+            <raspuns tip="gresit"> b)O litera</raspuns>
+            <raspuns tip="corect"> c)Un limbaj de programare</raspuns>
+            <raspuns tip="gresit"> d)Un agent secret</raspuns>
+        </Intrebare>
+        <Intrebare numar="2)">
+            <enunt> cin si cout reprezinta... </enunt>
+
+            <raspuns tip="corect"> a)Fluxuri de intrare, respectiv iesire</raspuns>
+            <raspuns tip="gresit"> b)Doua variabile din librarie std</raspuns>
+            <raspuns tip="gresit"> c)Caractere speciale</raspuns>
+            <raspuns tip="gresit"> d)pointeri de tip int</raspuns>
+        </Intrebare>
+        <Intrebare numar="3)">
+            <enunt> Care este cea mai importanta componenta a unui program in C? </enunt>
+
+            <raspuns tip="gresit"> a)Variabilele</raspuns>
+            <raspuns tip="gresit"> b)Instructiunile de afisare si de scriere</raspuns>
+            <raspuns tip="gresit"> c)Principiile din OOP</raspuns>
+            <raspuns tip="corect"> d)Functia main</raspuns>
+        </Intrebare> 
+        
+        <Intrebare numar="4)">
+            <enunt> Pe cati biti se reprezinta un int (numar intreg) in C? </enunt>
+
+            <raspuns tip="gresit"> a)8</raspuns>
+            <raspuns tip="gresit"> b)16</raspuns>
+            <raspuns tip="corect"> c)32</raspuns>
+            <raspuns tip="gresit"> d)64</raspuns>
+        </Intrebare>
+        
+        <Intrebare numar="5)">
+            <enunt> Pe cati bytes se reprezinta un double (numar in virgula dubla precizie) in C? </enunt>
+
+            <raspuns tip="gresit"> a)4</raspuns>
+            <raspuns tip="corect"> b)8</raspuns>
+            <raspuns tip="gresit"> c)16</raspuns>
+            <raspuns tip="gresit"> d)32</raspuns>
+        </Intrebare>   
+        <Intrebare numar="6)">
+            <enunt> Ce este un pointer? </enunt>
+
+            <raspuns tip="gresit"> a)O functie de conversie </raspuns>
+            <raspuns tip="gresit"> b)O structura</raspuns>
+            <raspuns tip="corect"> c)O variabila care retine o adresa de memorie</raspuns>
+            <raspuns tip="gresit"> d)O instructiune</raspuns>
+        </Intrebare> 
+
+        <Intrebare numar="7)">
+            <enunt> Ce valoare va contine a (int a=.5*3)? </enunt>
+
+            <raspuns tip="gresit"> a)10.5</raspuns>
+            <raspuns tip="gresit"> b)11</raspuns>
+            <raspuns tip="corect"> c)10</raspuns>
+            <raspuns tip="gresit"> d)nimic(instructiunea va da eroare)</raspuns>
+        </Intrebare>
+
+        <Intrebare numar="8)">
+            <enunt> Ce este v (int v[10])? </enunt>
+
+            <raspuns tip="gresit"> a)O structura</raspuns>
+            <raspuns tip="gresit"> b)Un numar intreg cu 10 cifre</raspuns>
+            <raspuns tip="gresit"> c)O referinta</raspuns>
+            <raspuns tip="corect"> d)Un pointer constant</raspuns>
+        </Intrebare> 
+
+        <Intrebare numar="9)">
+            <enunt> Cum pot accesa elemuntul de pe pozitia i din vectorul v? </enunt>
+
+            <raspuns tip="gresit"> a)v->i</raspuns>
+            <raspuns tip="corect"> b)v.i</raspuns>
+            <raspuns tip="gresit"> c)i[v]</raspuns>
+            <raspuns tip="gresit"> d)v->next.i</raspuns>
+        </Intrebare>
+
+        <Intrebare numar="10)">
+            <enunt> dupa executarea instructiunii while(ni=ni*10+n/10,n/=10,n) ni...? </enunt>
+
+            <raspuns tip="gresit"> a)Va retine numarul de cifre ale lui n</raspuns>
+            <raspuns tip="gresit"> b)Va contine valoare lui n</raspuns>
+            <raspuns tip="corect"> c)Va contine inversul lui n</raspuns>
+            <raspuns tip="gresit"> d)Nu va contine nimic(while-ul executa instructiunea vida)</raspuns>
+        </Intrebare>            
+    </Quiz>
+
+    <Quiz nume="Retele de Calculatoare: Intrebari teoretice" dificultate="Mediu...">
+<!-- quiz mediu-->
+        <Intrebare numar="1)">
+            <enunt> Care este cel mai bun model server\client</enunt>
+            <raspuns tip="gresit"> a)TCP </raspuns>
+            <raspuns tip="gresit"> b)UDP </raspuns>
+            <raspuns tip="gresit"> c)Niciunul </raspuns>
+            <raspuns tip="corect"> d)Depinde de situatie </raspuns>
+        </Intrebare>
+    </Quiz>
+
+    <Quiz nume="Viata de student" dificultate="GREU!!!!">
+<!--QUIZ GREU-->
+        <Intrebare numar="1)">
+            <enunt> Ce mancare iubesc studentii cel mai mult?</enunt>
+            <raspuns tip="gresit"> a)Racitura </raspuns>
+            <raspuns tip="corect"> b)Pateu </raspuns>
+            <raspuns tip="gresit"> c)Zacusca </raspuns>
+            <raspuns tip="gresit"> d)Sarmale </raspuns>
+        </Intrebare>
+        <Intrebare numar="2)">
+            <enunt> Ce faci in timpul cursurilor(online)?</enunt>
+            <raspuns tip="corect"> a)Dormi (zZ) </raspuns>
+            <raspuns tip="gresit"> b)Cafelutza </raspuns>
+            <raspuns tip="gresit"> c)Ma chinui sa nu adorm </raspuns>
+            <raspuns tip="gresit"> d)Notite </raspuns>
+        </Intrebare>
+        <Intrebare numar="3)">
+            <enunt> Cea mai buna tactica de mai jos de a lua note bune este?</enunt>
+            <raspuns tip="gresit"> a)Sa te bazezi doar pe ce gasesti pe net</raspuns>
+            <raspuns tip="gresit"> b)Mergi la fiecare curs si esti activ la seminare </raspuns>
+            <raspuns tip="corect"> c)Inveti totul cu o saptamana inainte </raspuns>
+            <raspuns tip="gresit"> d)Mananci caietele pentru a retine instant informatiile </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="4)">
+            <enunt> Este bine ca studentii sa se ajute intre ei...?</enunt>
+            <raspuns tip="gresit"> a)Da</raspuns>
+            <raspuns tip="corect"> b)La ce te referei mai exact??? </raspuns>
+            <raspuns tip="gresit"> c)Nu </raspuns>
+            <raspuns tip="gresit"> d)Toate de mai sus </raspuns>
+        </Intrebare>
+
+        
+        <Intrebare numar="5)">
+            <enunt> Cam cat ar trebui sa fii atent la un curs?</enunt>
+            <raspuns tip="gresit"> a)30 de minute</raspuns>
+            <raspuns tip="gresit"> b)O ora </raspuns>
+            <raspuns tip="gresit"> c)O ora si jumatate </raspuns>
+            <raspuns tip="corect"> d)Doua ore </raspuns>
+        </Intrebare>
+
+        
+        <Intrebare numar="6)">
+                    <enunt> Cat doarme un student pe noapte(in medie)?</enunt>
+                    <raspuns tip="gresit"> a) 6-8 ore</raspuns>
+                    <raspuns tip="corect"> b) 2-3 ore </raspuns>
+                    <raspuns tip="gresit"> c) 5-6 ore </raspuns>
+                    <raspuns tip="gresit"> d) -2 ore </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="7)">
+                    <enunt> Studentii din anii mai mari ar trebui sa fie mentori pentru boboci?</enunt>
+                    <raspuns tip="corect"> a)Da</raspuns>
+                    <raspuns tip="gresit"> b)Nu </raspuns>
+                    <raspuns tip="corect"> c)Doar cu bunavointa studentilor respectivi </raspuns>
+                    <raspuns tip="corect"> d)Ce-i un mentor ?:') </raspuns>
+        </Intrebare>
+
+
+        <Intrebare numar="8)">
+                    <enunt> Cel mai bun loc de a procura mancare este...</enunt>
+                    <raspuns tip="gresit"> a)Cantina</raspuns>
+                    <raspuns tip="gresit"> b)Restaurantul(unul oarecare) </raspuns>
+                    <raspuns tip="gresit"> c)Pachetul de la mama </raspuns>
+                    <raspuns tip="corect"> d)Bucataria(puneti mainile la treaba daca vrei sa mananci) </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="9)">
+                    <enunt> Cel mai mare al studentilor este...</enunt>
+                    <raspuns tip="gresit"> a)SESIUNEA!!!!</raspuns>
+                    <raspuns tip="corect"> b)Restantele </raspuns>
+                    <raspuns tip="gresit"> c)Colegii nesimtiti de camera </raspuns>
+                    <raspuns tip="corect"> d)Refacerile </raspuns>
+        </Intrebare>
+
+
+        <Intrebare numar="10)">
+            <enunt> Ce are in comun un student cu un elev si cu un adult?</enunt>
+            <raspuns tip="gresit"> a)A fost elev si va deveni adult</raspuns>
+            <raspuns tip="gresit"> b)Doreste sa vina vacanta de Craciun, de Paste sau de vara </raspuns>
+            <raspuns tip="gresit"> c)Nu inceteaza niciodata din a invata </raspuns>
+            <raspuns tip="corect"> d)Ii e frica sa-si verifice notele dar si cardul de credit (adultul si copilul nu fac asta simultan) </raspuns>
+        </Intrebare>
+    </Quiz>
+
+    <Quiz nume="Viata de student la FII" dificultate="PROIECTUL LA IP(RIP)">
+<!--FAI MAMA-->
+
+        <Intrebare numar="1)">
+            <enunt> Camin sau chirie?</enunt>
+            <raspuns tip="corect"> a)Camin</raspuns>
+            <raspuns tip="corect"> b)Chirie </raspuns>
+            <raspuns tip="corect"> c)Gazda </raspuns>
+            <raspuns tip="corect"> d)Acasa(stai in IASI) </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="2)">
+            <enunt> Ce faci daca nu intelegi o intrebare de la un examen?</enunt>
+            <raspuns tip="gresit"> a)Plangi</raspuns>
+            <raspuns tip="corect"> b)Citesti cu atentie intrebarea si razpunzi la cerinta </raspuns>
+            <raspuns tip="gresit"> c)O factorizare(in O(N^N^N^...)) </raspuns>
+            <raspuns tip="gresit"> d)Scrii ce crezi(I salute your bravery) </raspuns>
+        </Intrebare>
+
+
+        <Intrebare numar="3)">
+            <enunt> Esti la camin, care este cel mai bun coleg de camera?</enunt>
+            <raspuns tip="corect"> a)Gandacii</raspuns>
+            <raspuns tip="gresit"> b)Sobolanii </raspuns>
+            <raspuns tip="gresit"> c)Liliecii </raspuns>
+            <raspuns tip="gresit"> d)Bozghetarii care iti fura mancarea(stai la parter) </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="4)">
+            <enunt> Cea mai importanta notiune din SO?</enunt>
+            <raspuns tip="gresit"> a)Pipe-urile dintre procese neinrudite</raspuns>
+            <raspuns tip="gresit"> b)[] char s (stringurile) </raspuns>
+            <raspuns tip="corect"> c)Fisiere binare</raspuns>
+            <raspuns tip="gresit"> d)Subsistemul de MacOS </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="5)">
+            <enunt> Cine este cu adevarat pleava societatii?</enunt>
+            <raspuns tip="gresit"> a)Puscariasii</raspuns>
+            <raspuns tip="gresit"> b)Politicienii corupti </raspuns>
+            <raspuns tip="corect"> c)Studentii romani</raspuns>
+            <raspuns tip="gresit"> d)Criminalii in serie </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="6)">
+            <enunt> Ce fac studentii de la FII de Craciun?</enunt>
+            <raspuns tip="corect"> a)Tema la Grafuri</raspuns>
+            <raspuns tip="gresit"> b)Proiectul la Retele </raspuns>
+            <raspuns tip="gresit"> c)Proiectul la LFAC</raspuns>
+            <raspuns tip="gresit"> d)Stau cu familia </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="7)">
+            <enunt> Exista libraria windows.h?</enunt>
+            <raspuns tip="gresit"> a)Da</raspuns>
+            <raspuns tip="corect"> b)Nu </raspuns>
+            <raspuns tip="gresit"> c)Pe windows da</raspuns>
+            <raspuns tip="gresit"> d)Pe linux nu </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="8)">
+            <enunt> Ce faci la ora de sport?</enunt>
+            <raspuns tip="gresit"> a)Merg la sala de fortza</raspuns>
+            <raspuns tip="gresit"> b)Merg sa joc fotbal </raspuns>
+            <raspuns tip="gresit"> c)Merg sa joc basket</raspuns>
+            <raspuns tip="corect"> d)Merg acasa </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="9)">
+            <enunt> Replica secolului:</enunt>
+            <raspuns tip="gresit"> a)Citeste cu atentia intrebarea si raspunde la cerinta</raspuns>
+            <raspuns tip="corect"> b)Foarte simplu, foarte frumos, foarte interesant </raspuns>
+            <raspuns tip="gresit"> c)FISIERE BINARE</raspuns>
+            <raspuns tip="gresit"> d)Hai curaj </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="10)">
+            <enunt> Cel mai bun optional pentru anul 2 semestrul doi este...</enunt>
+            <raspuns tip="gresit"> a)AIIT (antreprenor time!)</raspuns>
+            <raspuns tip="corect"> b)SE (RADULESCU) </raspuns>
+            <raspuns tip="gresit"> c)IC (Riga Crypto)</raspuns>
+            <raspuns tip="gresit"> d)PF (functii) </raspuns>
+        </Intrebare>
+
+        <Intrebare numar="11)">
+            <enunt> Sunt studentii de la FII fericiti?</enunt>
+            <raspuns tip="gresit"> a)Da</raspuns>
+            <raspuns tip="gresit"> b)Suntem in depresie si plangem pe gresie </raspuns>
+            <raspuns tip="gresit"> c)Fericire? ce-i aia? (e buna de mancare?)</raspuns>
+            <raspuns tip="corect"> d)Da....(reaches for knife to end his/her missery) </raspuns>
+        </Intrebare>
+    </Quiz>
+</QuizList>
