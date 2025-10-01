@@ -1,2 +1,2 @@
 # Proiect-QuizzGame
-If you find this repository then know I am dying inside
+Implementation of a turned-based quizzgame
